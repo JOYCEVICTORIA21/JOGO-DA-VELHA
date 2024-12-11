@@ -1,6 +1,6 @@
-# myapp
+# Aplicativo de jogo da velha
 
-A new Flutter project.
+Criação do jogo da velha.
 
 ## Getting Started
 
